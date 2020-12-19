@@ -1,0 +1,31 @@
+{
+  "Loading":"Loading...",
+  "Nav": {
+      "Home": "Home",
+      "Counter": "Counter",
+      "Weather": "Weather"
+  },
+  "Weather":{
+    "Header1": "Weather forecast",
+    "Date": "Date",
+    "TempC": "Temp. (C)",
+    "TempF": "Temp. (F)",
+    "Summary": "Summary",
+    "Sweltering": "Sweltering",
+    "Hot":"Hot",
+    "Warm": "Warm",
+    "Cool":"Cool",
+    "Chilly":"Chilly",
+    "Freezing":"Freezing"
+  },
+  "Currency":{
+    "Header1":"Currency converter",
+    "Description":"This utility converts US Dollars to Euro",
+    "ConvertIt":"Convert it",
+    "ConvertBtnText": "Convert it"
+  },
+  "Home":{
+    "Greeting":"Hello, folks!",
+    "Description":"Welcome to Localization demo application, built with: ASP.NET Core, Angular, Bootstrap"
+  }
+}

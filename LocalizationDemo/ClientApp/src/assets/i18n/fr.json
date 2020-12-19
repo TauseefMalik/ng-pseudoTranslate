@@ -1,0 +1,31 @@
+{
+  "Loading":"Chargement...",
+  "Nav": {
+      "Home": "Accueil",
+      "Counter": "Compteur",
+      "Weather": "La météo"
+  },
+  "Weather":{
+    "Header1": "Prévisions météorologiques",
+    "Date": "Date",
+    "TempC": "Temp. (C)",
+    "TempF": "Temp. (F)",
+    "Summary": "Résumé",
+    "Sweltering": "Étouffante",
+    "Hot":"Hot",
+    "Warm": "Chaude",
+    "Cool":"Cool",
+    "Chilly":"Froide",
+    "Freezing":"Gelée"
+  },
+  "Currency":{
+    "Header1":"Convertisseur de devises",
+    "Description":"Cet utilitaire convertit les dollars américains en euros",
+    "ConvertIt":"Convertissez-le",
+    "ConvertBtnText":"Convertissez-le"
+  },
+  "Home":{
+    "Greeting":"Bonjour les gens!",
+    "Description":"Bienvenue dans l'application de démonstration de localisation, construite avec: ASP.NET Core, Angular, Bootstrap"
+  }
+}

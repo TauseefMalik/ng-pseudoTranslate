@@ -1,0 +1,11 @@
+<h1>{{'Currency.Header1'|translate}}</h1>
+
+<p>{{'Currency.Description'|translate}}</p>
+
+<p aria-live="polite">USD: <input type="number" min="0" #val/> </p>
+<p aria-live="polite">Euro: <strong>{{ convertedValue | currency:'EUR'}}</strong></p>
+<div style="max-width: 7%; overflow: hidden;">
+  <!-- disable pseudo-translation for an element example -->
+  <!-- <button class="btn btn-primary" (click)="convert(val.value)">{{getBtnText() | ngPseudoTranslate:false}}</button> -->
+  <button class="btn btn-primary" (click)="convert(val.value)">{{getBtnText() | ngPseudoTranslate:true}}</button>
+</div>
