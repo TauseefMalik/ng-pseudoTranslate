@@ -8,11 +8,12 @@ Pseudo Localization is a way to simulate translation of English UI strings, with
 
 # How it helps?
 Early problem detection before actual translation of text takes place.
-  text that is cut off (truncation)
   
-  strings that are formed by combining (concatenation)
+  Text that is cut off (truncation)
   
-  strings that are not made localizable (hard-coding)
+  Strings that are formed by combining (concatenation)
+  
+  Strings that are not made localizable (hard-coding)
 
 example usage:
 ```
