@@ -1,7 +1,8 @@
 {
   "name": "pseudo-translate",
   "version": "1.0.0",
-  "author": {"name": "Tauseef Malik"},
+  "author": {"name": "Tauseef M"},
+  "description": "This angular pipe can be used to pseudo-translate the text content to visualize any clippings or messy user interface",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
