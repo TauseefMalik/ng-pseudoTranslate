@@ -1,5 +1,5 @@
-# ng-pseudolocalize
-Angular pipe to pseudo-localize html text
+# ng-pseudoTranslate
+Angular pipe to pseudo-translate html text
 
 This angular pipe can be used to pseudo-translate the text content to visualize any clippings or messed-up user interface components
 
